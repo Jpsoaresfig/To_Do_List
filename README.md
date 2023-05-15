@@ -19,7 +19,7 @@ CSS: Estilização da aplicação.
   <h1> Como Executar o Projeto</h1>
 1.Certifique-se de ter o Node.js e o npm instalados em sua máquina.
   <br>
-2.Clone este repositório: git clone https://github.com/Jpsoaresfig/To_Do_List-
+2.Clone este repositório: git clone https://github.com/Jpsoaresfig/To_Do_List
    <br>
 3.Navegue até o diretório do projeto: cd to_do_List
    <br>
