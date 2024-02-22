@@ -1,34 +1,34 @@
-<h1>Lista de Tarefas</h1>
+<h1>Task List</h1>
 <br>
-Uma aplicação de lista de tarefas simples construída com React. Com esta aplicação, você pode adicionar, marcar como concluído e remover tarefas da lista. É uma ferramenta útil para gerenciar suas atividades diárias, permitindo que você acompanhe suas tarefas pendentes e concluídas.
+A simple task list application built with React. With this application, you can add, mark as completed, and remove tasks from the list. It's a useful tool for managing your daily activities, allowing you to keep track of your pending and completed tasks.
 
-<h1>Funcionalidades</h1>
-<li>Adicionar novas tarefas à lista.
-<li>Marcar tarefas como concluídas.
-<li>Remover tarefas da lista.
-<li>Interface intuitiva e fácil de usar.
+<h1>Features</h1>
+<li>Add new tasks to the list.
+<li>Mark tasks as completed.
+<li>Remove tasks from the list.
+<li>Intuitive and easy-to-use interface.
   
-  <h1>Tecnologias Utilizadas</h1>
+  <h1>Technologies Used</h1>
   
-React: Uma biblioteca JavaScript para criar interfaces de usuário.
+React: A JavaScript library for building user interfaces.
   <br>
-React Icons: Uma biblioteca de ícones para React.
+React Icons: An icon library for React.
    <br>
-CSS: Estilização da aplicação.
+CSS: Styling of the application.
   
-  <h1> Como Executar o Projeto</h1>
-1.Certifique-se de ter o Node.js e o npm instalados em sua máquina.
+  <h1> How to Run the Project</h1>
+1. Make sure you have Node.js and npm installed on your machine.
   <br>
-2.Clone este repositório: git clone https://github.com/Jpsoaresfig/To_Do_List
+2. Clone this repository: git clone https://github.com/Jpsoaresfig/To_Do_List
    <br>
-3.Navegue até o diretório do projeto: cd to_do_List
+3. Navigate to the project directory: cd to_do_List
    <br>
-4.Instale as dependências: npm install
+4. Install dependencies: npm install
    <br>
-5.Inicie a aplicação: npm start
+5. Start the application: npm start
    <br>
 
-  Sinta-se à vontade para explorar e modificar o código-fonte para atender às suas necessidades específicas.
+  Feel free to explore and modify the source code to meet your specific needs.
   
-  <h1>Contribuição</h1>
-  Contribuições são bem-vindas! Se você encontrar algum problema, tiver sugestões ou quiser adicionar novos recursos, fique à vontade para abrir um "issue" ou enviar um "pull request".
+  <h1>Contribution</h1>
+  Contributions are welcome! If you encounter any issues, have suggestions, or want to add new features, feel free to open an issue or submit a pull request.
