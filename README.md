@@ -1,34 +1,41 @@
-<h1>Task List</h1>
-<br>
-A simple task list application built with React. With this application, you can add, mark as completed, and remove tasks from the list. It's a useful tool for managing your daily activities, allowing you to keep track of your pending and completed tasks.
 
-<h1>Features</h1>
-<li>Add new tasks to the list.
-<li>Mark tasks as completed.
-<li>Remove tasks from the list.
-<li>Intuitive and easy-to-use interface.
-  
-  <h1>Technologies Used</h1>
-  
-React: A JavaScript library for building user interfaces.
-  <br>
-React Icons: An icon library for React.
-   <br>
-CSS: Styling of the application.
-  
-  <h1> How to Run the Project</h1>
-1. Make sure you have Node.js and npm installed on your machine.
-  <br>
-2. Clone this repository: git clone https://github.com/Jpsoaresfig/To_Do_List
-   <br>
-3. Navigate to the project directory: cd to_do_List
-   <br>
-4. Install dependencies: npm install
-   <br>
-5. Start the application: npm start
-   <br>
+</head>
+<body>
+  <h1>✅ To-Do List</h1>
+  <p><strong>Author:</strong> João Pedro Soares</p>
 
-  Feel free to explore and modify the source code to meet your specific needs.
-  
-  <h1>Contribution</h1>
-  Contributions are welcome! If you encounter any issues, have suggestions, or want to add new features, feel free to open an issue or submit a pull request.
+  <h2>📌 Description</h2>
+  <p>The <strong>To-Do List</strong> is a simple web application that allows users to manage their daily tasks by adding, marking as completed, and deleting tasks. The app is built using HTML, CSS, and JavaScript, providing an interactive and user-friendly interface to track and organize tasks effectively.</p>
+
+  <h2>🛠️ Technologies Used</h2>
+  <ul>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>JavaScript</li>
+  </ul>
+
+  <h2>📂 Project Structure</h2>
+  <pre>
+To_Do_List/
+├── index.html
+├── style.css
+├── script.js
+  </pre>
+
+  <h2>🚀 How to Run</h2>
+  <ol>
+    <li>Clone this repository</li>
+    <li>Open the <code>index.html</code> file in your browser</li>
+    <li>Add, check off, and delete tasks from your to-do list</li>
+  </ol>
+
+  <h2>🎯 Purpose</h2>
+  <p>This project was created to practice working with DOM manipulation, local storage, and handling user inputs in JavaScript. It is designed to provide a simple, yet functional tool for managing tasks.</p>
+
+  <h2>📄 License</h2>
+  <p>This project is intended for educational and personal use only.</p>
+
+  <hr>
+  <p align="center">📘 Developed by João Pedro Soares</p>
+</body>
+</html>
